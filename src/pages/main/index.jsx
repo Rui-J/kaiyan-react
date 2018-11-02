@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { TabBar } from 'antd-mobile';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import Home from './home';
+// import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import Home from '@/pages/home';
 
 class Main extends Component {
   render() {
